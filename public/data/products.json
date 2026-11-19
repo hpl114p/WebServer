@@ -1,0 +1,46 @@
+{
+  "categories": [
+    { "id": "DM00000001", "name": "Kem dưỡng da" },
+    { "id": "DM00000002", "name": "Sữa rửa mặt" },
+    { "id": "DM00000003", "name": "Toner & Nước hoa hồng" },
+    { "id": "DM00000004", "name": "Son môi" }
+  ],
+  "products": [
+    {
+      "id": "SP00000004",
+      "category_id": "DM00000004",
+      "name": "Son Romand Zero Velvet Tint #02 Joyful",
+      "price": 250000,
+      "stock": 44,
+      "image": "son_romand.jpg",
+      "description": "Son kem lì mịn như nhung, màu đỏ đất cuốn hút."
+    },
+    {
+      "id": "SP00000003",
+      "category_id": "DM00000003",
+      "name": "Nước hoa hồng Klairs Supple Preparation Facial Toner",
+      "price": 350000,
+      "stock": 40,
+      "image": "toner_klairs.jpg",
+      "description": "Toner cân bằng độ ẩm, làm dịu da và giúp các bước dưỡng sau thẩm thấu tốt hơn."
+    },
+    {
+      "id": "SP00000002",
+      "category_id": "DM00000002",
+      "name": "Sữa rửa mặt Cosrx Low pH Good Morning Gel Cleanser",
+      "price": 220000,
+      "stock": 50,
+      "image": "srm_cosrx.jpg",
+      "description": "Gel rửa mặt độ pH thấp, làm sạch dịu nhẹ, không gây khô căng, phù hợp mọi loại da."
+    },
+    {
+      "id": "SP00000001",
+      "category_id": "DM00000001",
+      "name": "Kem dưỡng ẩm Klairs Rich Moist Soothing Cream",
+      "price": 390000,
+      "stock": 30,
+      "image": "kem_klairs.jpg",
+      "description": "Kem dưỡng ẩm sâu, làm dịu da nhạy cảm, giúp da mềm mịn và căng bóng suốt cả ngày."
+    }
+  ]
+}
